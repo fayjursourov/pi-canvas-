@@ -1,0 +1,46 @@
+.section-divider {
+    /*margin-bottom: 30px;*/
+}
+#headerwrap {
+    position: relative;
+}
+#headerwrap .clearfix {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.35);
+}
+#headerwrap .clearfix p {
+    margin-top: 15px;
+    margin-left: 0;
+}
+.section-divider.textdivider {
+    margin: 0;
+    padding: 0;
+    height: 412px;
+    line-height: 412px;
+    /*position: relative;*/
+}
+.section-divider.textdivider h2 {
+    /*height: 292px;*/
+    margin: 0;
+    /*margin-top: 119px;*/
+    /*margin-bottom: 260px;*/
+    padding: 8px 19px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    background: rgba(0,0,0,.36);
+}
+#picanvas .col-md-4 .grid {
+    margin-top: 20px;
+}
+#picanvas .col-md-4 .grid figcaption h5 {
+    text-transform: uppercase;
+}
+.contact-start-here {
+    height: 40px;
+    width: 100%;
+    display: block;
+}
